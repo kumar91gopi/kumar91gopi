@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumar91gopi
-- 👀 I’m interested in Ruby on Rails,Python with Django and Solidity
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on RoR,Django and Solidity Projects.
+- 👀 I’m interested in Ruby on Rails,Python with Django,Javascript.
+- 🌱 I’m currently learning JS.
+- 💞️ I’m looking to collaborate on RoR,Django and Data engineering Projects.
 - 📫 Reach me at my email: kumar91gopi@gmail.com
 
 <!---
