@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kumar91gopi
-- 👀 I’m interested in Ruby on Rails,Python with Django,Javascript.
-- 💞️ I’m looking to collaborate on RoR,Django and Data engineering Projects.
+- 👀 I’m interested in Python with Django,Ruby on Rails,Java,Go and Javascript.
+- 💞️ I’m looking to collaborate on RoR,Django,Data engineering or any interesting Projects.
+- 💞️ I have deep interest in Kafka and Database Internals.
 - 📫 Reach me at my email: kumar91gopi@gmail.com
 
 <!---
